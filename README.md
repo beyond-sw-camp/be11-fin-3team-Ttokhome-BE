@@ -1,7 +1,10 @@
    # 📁 프로젝트명
+  
+<div align="center">
+  <img src=https://github.com/beyond-sw-camp/be11-fin-3team-SilverPotion-BE/blob/main/img/%EA%B0%9C%EC%9A%94.png >
+</div>
 
->실버세대의 건강관리와 사회적 교류를 위한 플랫폼, 실버포션  
-
+>실버세대의 건강관리와 사회적 교류를 위한 플랫폼
 
 ---
 
@@ -29,6 +32,12 @@
 
 - **프로젝트명** : 실버포션
 - **프로젝트 배경** : <br>
+<div align="center">
+  <img src=https://github.com/beyond-sw-camp/be11-fin-3team-SilverPotion-BE/blob/main/img/%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4%20%EC%88%98%EC%9A%941.png >
+</div>
+<div align="center">
+  <img src=https://github.com/beyond-sw-camp/be11-fin-3team-SilverPotion-BE/blob/main/img/%EB%85%B8%EC%9D%B8%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%88%98%EC%9A%94.png >
+</div>
 1️⃣초고령 사회 진입
 대한민국은 작년 12월, 전체 인구 중 65세 이상 노인이 차지하는 비율이 20%를 넘어가며 **초고령 사회에 진입**했습니다.<br>
 이에 따라, 노인 인구의 의료 서비스, 돌봄 수요가 급증하고 있습니다.<br><br>
@@ -37,7 +46,8 @@
 **원격으로 부모의 건강을 모니터링하고 돌봄에 참여할 수 있는 시스템에 대한 수요**가 커지고 있습니다.<br><br>
 3️⃣한국 노인의 사회적 고립도는 OECD 평균에 비해 3배 이상 높다는 연구결과가 있을정도로 객관적으로 확인할 수 있는 사실입니다.<br>
 이러한 사회적 고립도는 치매나 고독사 증가를 가중시켜 사회의 부담을 높이고 있습니다.<br><br>
-- **목표 및 목적** : 
+
+**목표 및 목적** : 
    **1️⃣ 노년층의 건강 관리 효율성 강화**
    **2️⃣ 가족 및 보호자의 안심 돌봄 환경 구축**
   **3️⃣ 사회적 고립 해소 및 정서적 안정 지원**
